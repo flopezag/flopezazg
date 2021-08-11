@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=flopezag" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=adammiltonbarker&show_icons=true">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=flopezag&show_icons=true">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=flopezag">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammiltonbarker&hide=TeX&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flopezag&hide=TeX&layout=compact" />
   </a>
 </p>
 
